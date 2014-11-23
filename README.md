@@ -1,5 +1,5 @@
-Public domain tool for generating world maps in SVG
-===================================================
+Tool for generating cc0 world maps in SVG
+=========================================
 
 The main feature is that it can generate equirectangular output, suitable for texture mapping.
 
